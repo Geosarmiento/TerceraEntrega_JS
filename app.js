@@ -4,15 +4,22 @@ const contenedorProductos = document.getElementById('contenedor-productos')
 //TERCER PASO
 
 const contenedorCarrito = document.getElementById('carrito-contenedor')
+
 //SEXTO PASO
+
 const botonVaciar = document.getElementById('vaciar-carrito')
+
+
 //SEXTIMO PASO, MODIFICAR LOS CONTADORES
+
 const contadorCarrito = document.getElementById('contadorCarrito')
 
 //OCTAVO PASO
 const cantidad = document.getElementById('cantidad')
 const precioTotal = document.getElementById('precioTotal')
 const cantidadTotal = document.getElementById('cantidadTotal')
+
+
 
 let carrito = []
 

@@ -20,6 +20,11 @@ header {
     padding: 10px 10%;
     margin-bottom: 20px;
 }
+
+h2{
+   text-align: center;
+   padding: 30px;
+}
    
 #boton-carrito {
     border: none;
@@ -45,10 +50,11 @@ header {
 
 #contenedor-productos {
     max-width: 1200px;
-    margin: 60px auto;
+    margin:auto;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     flex-wrap: wrap;
+    
 }
 
 p {
@@ -56,7 +62,7 @@ p {
 }
 .producto {
     border-radius: 7px;
-    max-width: 20%;
+    max-width: 190px;
     padding: 10px;
     margin: 10px;
     -webkit-box-shadow: 10px 10px 28px -7px rgba(0,0,0,0.36);

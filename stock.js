@@ -30,5 +30,9 @@ let stockProductos = [
         desc: "Camiseta Color Roja",
         precio: 32, talle: "L",
         img: './img/pantalon.jpg'},
+
+
+
+        
     
 ]
