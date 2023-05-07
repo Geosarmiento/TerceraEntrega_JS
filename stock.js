@@ -1,7 +1,8 @@
 
 let stockProductos = [
 
-    {id: 1, nombre: "Tshirt", 
+    {id: 1, 
+        nombre: "Tshirt", 
         tipo: "Camiseta", 
         cantidad: 1, 
         desc: "Camiseta Color Gris", 
